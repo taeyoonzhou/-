@@ -1,0 +1,15 @@
+14
+41C:\Users\15721\Desktop\domo-2\src\main.js132844833332870811 0
+34C:\Users\15721\Desktop\domo-2\dist132845449541273408 1
+33C:\Users\15721\Desktop\domo-2\src132843980479538328 1
+53C:\Users\15721\Desktop\domo-2\dist\index.af814d91.css132844821197049098 0
+44C:\Users\15721\Desktop\domo-2\src\index.html132844834390751300 0
+56C:\Users\15721\Desktop\domo-2\dist\index.65c7a1e5.js.map132844833026179999 0
+56C:\Users\15721\Desktop\domo-2\dist\index.1a15931f.js.map132845449541253206 0
+52C:\Users\15721\Desktop\domo-2\dist\index.65c7a1e5.js132844833026100230 0
+43C:\Users\15721\Desktop\domo-2\src\style.css132844821315073415 0
+52C:\Users\15721\Desktop\domo-2\dist\index.1a15931f.js132845449540774495 0
+57C:\Users\15721\Desktop\domo-2\dist\index.af814d91.css.map132844821197108890 0
+53C:\Users\15721\Desktop\domo-2\dist\index.f8d1d9c8.css132845449540774495 0
+57C:\Users\15721\Desktop\domo-2\dist\index.f8d1d9c8.css.map132845449541083652 0
+45C:\Users\15721\Desktop\domo-2\dist\index.html132845449540774495 0
